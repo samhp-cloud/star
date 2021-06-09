@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T06:09:38.283Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="eo2nBUBVdqtciuC3VyoR" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T06:23:00.895Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="JfNIFousAnz_Lgnt-EeS" version="14.7.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="MTK">
-    <mxGraphModel dx="10593" dy="4353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="9937" dy="4017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-23" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;swimlaneLine=1;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
           <mxGeometry x="1060" width="1760" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="F7YWZSjQQIEJhyXMOQQ_-62" value="Gửi mail y/c hoàn thiện hồ sơ" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
+        <mxCell id="F7YWZSjQQIEJhyXMOQQ_-62" value="Gửi mail y/c hoàn thiện hồ sơ đăng ký SPDV" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
           <mxGeometry x="1110" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7YWZSjQQIEJhyXMOQQ_-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-23" source="F7YWZSjQQIEJhyXMOQQ_-64">
@@ -302,13 +302,13 @@
         <mxCell id="F7YWZSjQQIEJhyXMOQQ_-44" value="Ghi nhận nhu cầu và báo cho sale" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-3605" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F7YWZSjQQIEJhyXMOQQ_-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;" edge="1" parent="1" source="F7YWZSjQQIEJhyXMOQQ_-48" target="F7YWZSjQQIEJhyXMOQQ_-113">
+        <mxCell id="F7YWZSjQQIEJhyXMOQQ_-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F7YWZSjQQIEJhyXMOQQ_-48" target="F7YWZSjQQIEJhyXMOQQ_-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7YWZSjQQIEJhyXMOQQ_-48" value="Flow chăm sóc theo product lead" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-3410" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F7YWZSjQQIEJhyXMOQQ_-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#009900;" edge="1" parent="1" source="F7YWZSjQQIEJhyXMOQQ_-113" target="F7YWZSjQQIEJhyXMOQQ_-42">
+        <mxCell id="F7YWZSjQQIEJhyXMOQQ_-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7YWZSjQQIEJhyXMOQQ_-113" target="F7YWZSjQQIEJhyXMOQQ_-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7YWZSjQQIEJhyXMOQQ_-113" value="KH đồng ý sử dụng sản phẩm" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
