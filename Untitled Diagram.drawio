@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:22:11.154Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="G2bktWe26ZbFiCm8AE4p" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-10T02:21:22.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.212 Chrome/88.0.4324.212 Safari/537.36" etag="BXPDzgsHRbveBnjmNf6r" version="14.7.6" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="MTK">
-    <mxGraphModel dx="9148" dy="2588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="9060" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
         <mxCell id="Ys9u0J2GZZsvIeTLDnjz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ys9u0J2GZZsvIeTLDnjz-26" target="F7YWZSjQQIEJhyXMOQQ_-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ys9u0J2GZZsvIeTLDnjz-26" value="Luồng đăng ký&lt;br&gt;Single Product" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Ys9u0J2GZZsvIeTLDnjz-26" value="Luồng đăng ký sản phẩm riêng lẻ&lt;br&gt;(Single Product)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-5680" y="-1391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ys9u0J2GZZsvIeTLDnjz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F7YWZSjQQIEJhyXMOQQ_-28" target="Ys9u0J2GZZsvIeTLDnjz-26" edge="1">
