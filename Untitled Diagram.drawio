@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T00:37:14.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.212 Chrome/88.0.4324.212 Safari/537.36" etag="Zh_QCWKz0QXGUBWHoROp" version="14.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-17T01:56:59.122Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="10Q4mYbb9ez4meMOE22V" version="14.7.9" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="MTK">
-    <mxGraphModel dx="13300" dy="4800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="11445" dy="3925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,7 +300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kl4I-0qaQGjE5GyRuyHa" name="EContract Bond">
-    <mxGraphModel dx="1060" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4593" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7VFibrfRhcc6CJE9Q2TK-0" />
         <mxCell id="7VFibrfRhcc6CJE9Q2TK-1" parent="7VFibrfRhcc6CJE9Q2TK-0" />
@@ -636,7 +636,7 @@
         <mxCell id="STnklpI_1aJdu9DmDDHP-96" value="Tạo Hợp đồng" style="whiteSpace=wrap;html=1;" parent="7VFibrfRhcc6CJE9Q2TK-1" vertex="1">
           <mxGeometry x="1680" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J44cpSIycrXROn1OBt_W-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7VFibrfRhcc6CJE9Q2TK-1" source="STnklpI_1aJdu9DmDDHP-98" target="J44cpSIycrXROn1OBt_W-0">
+        <mxCell id="J44cpSIycrXROn1OBt_W-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7VFibrfRhcc6CJE9Q2TK-1" source="STnklpI_1aJdu9DmDDHP-98" target="J44cpSIycrXROn1OBt_W-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="STnklpI_1aJdu9DmDDHP-98" value="Nghiệp vụ&lt;br&gt;xác nhận" style="rhombus;whiteSpace=wrap;html=1;" parent="7VFibrfRhcc6CJE9Q2TK-1" vertex="1">
@@ -768,18 +768,26 @@
         <mxCell id="STnklpI_1aJdu9DmDDHP-201" value="Với HĐ mua: KH nếu ko hoàn thiện HĐ mua sẽ ko thể bán Trái phiếu trên HT VND" style="whiteSpace=wrap;html=1;" parent="7VFibrfRhcc6CJE9Q2TK-1" vertex="1">
           <mxGeometry x="2500" y="1410" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="J44cpSIycrXROn1OBt_W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7VFibrfRhcc6CJE9Q2TK-1" source="J44cpSIycrXROn1OBt_W-0" target="J44cpSIycrXROn1OBt_W-4">
+        <mxCell id="J44cpSIycrXROn1OBt_W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="7VFibrfRhcc6CJE9Q2TK-1" source="J44cpSIycrXROn1OBt_W-0" target="J44cpSIycrXROn1OBt_W-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J44cpSIycrXROn1OBt_W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7VFibrfRhcc6CJE9Q2TK-1" source="J44cpSIycrXROn1OBt_W-0" target="STnklpI_1aJdu9DmDDHP-96">
+        <mxCell id="J44cpSIycrXROn1OBt_W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7VFibrfRhcc6CJE9Q2TK-1" source="J44cpSIycrXROn1OBt_W-0" target="STnklpI_1aJdu9DmDDHP-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J44cpSIycrXROn1OBt_W-0" value="Hoạch toán" style="whiteSpace=wrap;html=1;" vertex="1" parent="7VFibrfRhcc6CJE9Q2TK-1">
+        <mxCell id="J44cpSIycrXROn1OBt_W-0" value="Hoạch toán" style="whiteSpace=wrap;html=1;" parent="7VFibrfRhcc6CJE9Q2TK-1" vertex="1">
           <mxGeometry x="1410" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J44cpSIycrXROn1OBt_W-4" value="Tạo mail + cập nhật trạng thái giao dịch của KH" style="whiteSpace=wrap;html=1;" vertex="1" parent="7VFibrfRhcc6CJE9Q2TK-1">
+        <mxCell id="J44cpSIycrXROn1OBt_W-4" value="Tạo mail + cập nhật trạng thái giao dịch của KH" style="whiteSpace=wrap;html=1;" parent="7VFibrfRhcc6CJE9Q2TK-1" vertex="1">
           <mxGeometry x="1680" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8kJzZMhTH6cmWuyE6hlF" name="EContract Hưu trí">
+    <mxGraphModel dx="2297" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="_5LPWDJQPk1wlAV27Uky-0" />
+        <mxCell id="_5LPWDJQPk1wlAV27Uky-1" parent="_5LPWDJQPk1wlAV27Uky-0" />
       </root>
     </mxGraphModel>
   </diagram>
