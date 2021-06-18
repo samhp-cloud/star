@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T01:54:29.048Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="lXNXrHicp6dZ3PP7Zbgb" version="14.7.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-18T01:56:39.017Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="TcfYyW46jYAApKK41v11" version="14.7.10" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="MTK">
     <mxGraphModel dx="9378" dy="2770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8kJzZMhTH6cmWuyE6hlF" name="EContract Hưu trí">
-    <mxGraphModel dx="3445" dy="3765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="4593" dy="4353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="_5LPWDJQPk1wlAV27Uky-0" />
         <mxCell id="_5LPWDJQPk1wlAV27Uky-1" parent="_5LPWDJQPk1wlAV27Uky-0" />
@@ -973,7 +973,7 @@
         <mxCell id="SPrmWz7xI8VxkmlIrI_T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_5LPWDJQPk1wlAV27Uky-1" source="60y5IztlfKksc_Zgu-AN-66" target="SPrmWz7xI8VxkmlIrI_T-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="-680" />
+              <mxPoint x="800" y="-680" />
               <mxPoint x="560" y="-680" />
             </Array>
           </mxGeometry>
