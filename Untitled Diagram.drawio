@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T02:02:14.865Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="jA0wmqIKhXZJzyiF42UM" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-23T02:05:54.605Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36" etag="6cYkXsEe6YrTOY3_TvA8" version="14.8.0" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="MTK">
     <mxGraphModel dx="9378" dy="2770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -1649,7 +1649,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9QXs6QKNpLQ2kJSaaC-r-69" value="Ký và trả kết quả" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="vnPLRWyjNHS1LxYIa0Xt-1" vertex="1">
-          <mxGeometry x="2250" y="1585" width="120" height="60" as="geometry" />
+          <mxGeometry x="2090" y="1585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9QXs6QKNpLQ2kJSaaC-r-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vnPLRWyjNHS1LxYIa0Xt-1" source="9QXs6QKNpLQ2kJSaaC-r-71" target="9QXs6QKNpLQ2kJSaaC-r-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
