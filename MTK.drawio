@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T09:18:50.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/96.0.230 Chrome/90.0.4430.230 Safari/537.36" etag="FTyvPVG_CEpybu95J48W" version="14.9.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-06T09:19:49.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/96.0.230 Chrome/90.0.4430.230 Safari/537.36" etag="vyzEDFuWkj7SIvj5VmKP" version="14.9.3" type="github" pages="3">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="873" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         <mxCell id="eCDA-gnR-Ofth2mnmwKQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eCDA-gnR-Ofth2mnmwKQ-3" source="eCDA-gnR-Ofth2mnmwKQ-64" target="eCDA-gnR-Ofth2mnmwKQ-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eCDA-gnR-Ofth2mnmwKQ-64" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eCDA-gnR-Ofth2mnmwKQ-3">
+        <mxCell id="eCDA-gnR-Ofth2mnmwKQ-64" value="Kiểm tra thông tin định danh &amp;amp; Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eCDA-gnR-Ofth2mnmwKQ-3">
           <mxGeometry x="1900" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCDA-gnR-Ofth2mnmwKQ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="eCDA-gnR-Ofth2mnmwKQ-3" source="eCDA-gnR-Ofth2mnmwKQ-68" target="eCDA-gnR-Ofth2mnmwKQ-72">
@@ -221,7 +221,7 @@
         <mxCell id="eCDA-gnR-Ofth2mnmwKQ-74" value="Onboarding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eCDA-gnR-Ofth2mnmwKQ-3">
           <mxGeometry x="2320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eCDA-gnR-Ofth2mnmwKQ-4" value="iVND" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="eCDA-gnR-Ofth2mnmwKQ-2">
+        <mxCell id="eCDA-gnR-Ofth2mnmwKQ-4" value="VNDIRECT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="eCDA-gnR-Ofth2mnmwKQ-2">
           <mxGeometry y="260" width="2480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="eCDA-gnR-Ofth2mnmwKQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eCDA-gnR-Ofth2mnmwKQ-4" source="eCDA-gnR-Ofth2mnmwKQ-13" target="eCDA-gnR-Ofth2mnmwKQ-15">
