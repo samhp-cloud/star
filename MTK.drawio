@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T13:09:40.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/96.0.230 Chrome/90.0.4430.230 Safari/537.36" etag="YGXC6v05VDUYb25vw4Q-" version="14.9.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-14T10:52:30.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="plqhNfH7-SCo0CH5qh0W" version="14.9.9" type="github" pages="4">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="2120" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,9 @@
           <mxGeometry x="400" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_49HIfY4UiRzJs0RtM3f-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_49HIfY4UiRzJs0RtM3f-7" target="_49HIfY4UiRzJs0RtM3f-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3oZRIPKKjnmmXaLc5pMN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_49HIfY4UiRzJs0RtM3f-7" target="3oZRIPKKjnmmXaLc5pMN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_49HIfY4UiRzJs0RtM3f-7" value="Xác thực Email/SĐT" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
@@ -168,6 +171,9 @@
         </mxCell>
         <mxCell id="_49HIfY4UiRzJs0RtM3f-41" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" parent="1" vertex="1">
           <mxGeometry x="1960" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3oZRIPKKjnmmXaLc5pMN-1" value="Tạo freeaccount" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="515" y="640" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
