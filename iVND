@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T09:07:26.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="1wbdnmW7vwWxuSYyZi8D" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-20T10:53:35.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="y6HpFmoGcvAMFDgrQc0_" version="15.2.9" type="github" pages="2">
   <diagram id="2a3qwzSy7b0y4Bc5j9ty" name="MTK">
     <mxGraphModel dx="742" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
@@ -37,6 +37,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-tBDkN1DMqxPlp8aKWiB-1" source="-tBDkN1DMqxPlp8aKWiB-8" target="-tBDkN1DMqxPlp8aKWiB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-20" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-tBDkN1DMqxPlp8aKWiB-19">
+          <mxGeometry x="-0.3619" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-8" value="Check có&lt;br&gt;TK cơ sở?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#ffffff;" vertex="1" parent="-tBDkN1DMqxPlp8aKWiB-1">
           <mxGeometry x="480" y="315" width="80" height="80" as="geometry" />
         </mxCell>
@@ -48,6 +56,9 @@
         </mxCell>
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-14" value="Luồng MTK GD CK" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;verticalAlign=middle;" vertex="1" parent="-tBDkN1DMqxPlp8aKWiB-1">
           <mxGeometry x="460" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-18" value="" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#ffffff;" vertex="1" parent="-tBDkN1DMqxPlp8aKWiB-1">
+          <mxGeometry x="670" y="185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
