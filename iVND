@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T07:37:00.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="pD72FjtxhJriQHaC_wqn" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-20T08:01:02.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="fzVkHBu0UjNLE7S9r3tm" version="15.2.9" type="github" pages="2">
   <diagram id="2a3qwzSy7b0y4Bc5j9ty" name="MTK">
     <mxGraphModel dx="742" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
@@ -8,10 +8,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVZfiThQiQx7q0L9A58w" name="MTK CCQ">
-    <mxGraphModel dx="742" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-0" />
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-1" parent="-tBDkN1DMqxPlp8aKWiB-0" />
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-tBDkN1DMqxPlp8aKWiB-1" source="-tBDkN1DMqxPlp8aKWiB-3" target="-tBDkN1DMqxPlp8aKWiB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-3" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="-tBDkN1DMqxPlp8aKWiB-1">
+          <mxGeometry x="360" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-tBDkN1DMqxPlp8aKWiB-1" source="-tBDkN1DMqxPlp8aKWiB-4" target="-tBDkN1DMqxPlp8aKWiB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-10" value="msg" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-tBDkN1DMqxPlp8aKWiB-9">
+          <mxGeometry x="-0.0601" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-4" value="Đăng ký MTK CCQ" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;rounded=1;" vertex="1" parent="-tBDkN1DMqxPlp8aKWiB-1">
+          <mxGeometry x="455" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tBDkN1DMqxPlp8aKWiB-8" value="Check có&lt;br&gt;TK cơ sở?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#ffffff;" vertex="1" parent="-tBDkN1DMqxPlp8aKWiB-1">
+          <mxGeometry x="475" y="315" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
