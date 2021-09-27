@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T10:23:29.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="jlS6ZD1WjSx5LKwDhtX8" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-27T10:31:05.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="9bhjYeONeyESdq-AaNia" version="15.2.9" type="github" pages="2">
   <diagram id="2a3qwzSy7b0y4Bc5j9ty" name="MTK">
     <mxGraphModel dx="5708" dy="3223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVZfiThQiQx7q0L9A58w" name="MTK CCQ">
-    <mxGraphModel dx="2120" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
+    <mxGraphModel dx="424" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-0" />
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-1" parent="-tBDkN1DMqxPlp8aKWiB-0" />
@@ -180,8 +180,8 @@
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-4" value="iVND Web App" style="swimlane;startSize=20;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-3">
           <mxGeometry y="20" width="320" height="1340" as="geometry" />
         </mxCell>
-        <mxCell id="Sp-2A6F2l-EjBRBFq6xX-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-4">
-          <mxGeometry x="55" y="60" width="50" height="50" as="geometry" />
+        <mxCell id="Sp-2A6F2l-EjBRBFq6xX-1" value="Đăng ký CCQ" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-4">
+          <mxGeometry x="55" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Sp-2A6F2l-EjBRBFq6xX-4" source="Sp-2A6F2l-EjBRBFq6xX-13" target="Sp-2A6F2l-EjBRBFq6xX-123">
           <mxGeometry relative="1" as="geometry" />
@@ -245,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-119" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-84">
-          <mxGeometry x="55" y="60" width="50" height="50" as="geometry" />
+          <mxGeometry x="55" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-125" value="Quy trình thay đổi thông tin" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=#ffffff;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-84">
           <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
@@ -349,7 +349,7 @@
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-121" value="Check có tài khoản&lt;br&gt;CK cơ sở chưa?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sp-2A6F2l-EjBRBFq6xX-120">
           <mxGeometry x="-0.4052" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="65" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-122" value="Đã có" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Sp-2A6F2l-EjBRBFq6xX-3" source="Sp-2A6F2l-EjBRBFq6xX-119" target="Sp-2A6F2l-EjBRBFq6xX-13">
