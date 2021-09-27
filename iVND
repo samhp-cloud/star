@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T10:23:14.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="fA__PDCVO9MTx3l1yjim" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-27T10:23:29.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.196 Chrome/91.0.4472.196 Safari/537.36" etag="jlS6ZD1WjSx5LKwDhtX8" version="15.2.9" type="github" pages="2">
   <diagram id="2a3qwzSy7b0y4Bc5j9ty" name="MTK">
     <mxGraphModel dx="5708" dy="3223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVZfiThQiQx7q0L9A58w" name="MTK CCQ">
-    <mxGraphModel dx="1484" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="3500" math="0" shadow="0">
       <root>
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-0" />
         <mxCell id="-tBDkN1DMqxPlp8aKWiB-1" parent="-tBDkN1DMqxPlp8aKWiB-0" />
@@ -258,13 +258,13 @@
             <mxPoint x="90" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sp-2A6F2l-EjBRBFq6xX-53" value="Cập nhật RequestID&lt;br&gt;Status = Setup" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;rounded=1;align=center;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-5">
+        <mxCell id="Sp-2A6F2l-EjBRBFq6xX-53" value="Cập nhật RequestID&lt;br&gt;Status = Setup" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;rounded=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-5">
           <mxGeometry x="20" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Sp-2A6F2l-EjBRBFq6xX-5" source="Sp-2A6F2l-EjBRBFq6xX-41" target="Sp-2A6F2l-EjBRBFq6xX-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sp-2A6F2l-EjBRBFq6xX-41" value="Validate yêu cầu&lt;br&gt;Khởi tạo RequestID&lt;br&gt;Status = New" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;rounded=1;align=center;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-5">
+        <mxCell id="Sp-2A6F2l-EjBRBFq6xX-41" value="Validate yêu cầu&lt;br&gt;Khởi tạo RequestID&lt;br&gt;Status = New" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;rounded=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-5">
           <mxGeometry x="20" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sp-2A6F2l-EjBRBFq6xX-97" value="Cập nhật RequestID&lt;br&gt;Status = Contractive" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;rounded=1;align=center;" vertex="1" parent="Sp-2A6F2l-EjBRBFq6xX-5">
