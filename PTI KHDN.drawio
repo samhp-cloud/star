@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T02:39:49.764Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="JgT29uHBpqmv7PvNqhUu" type="github"><diagram id="ilfPSTCXx0UpjXiv6K17">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-05T03:08:03.448Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4dQfgX4LTRlFPLBBgFN0" version="20.4.0" type="github">
+  <diagram id="ilfPSTCXx0UpjXiv6K17" name="Page-1">
+    <mxGraphModel dx="1185" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-1" value="Flow KHDN" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="1040" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-2" value="iLead" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="jEFjyKV6ByHI5vPyLk2n-1">
+          <mxGeometry y="40" width="1040" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jEFjyKV6ByHI5vPyLk2n-2" source="jEFjyKV6ByHI5vPyLk2n-6" target="jEFjyKV6ByHI5vPyLk2n-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-6" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="jEFjyKV6ByHI5vPyLk2n-2">
+          <mxGeometry x="70" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-7" value="Nhập MST" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" parent="jEFjyKV6ByHI5vPyLk2n-2">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-3" value="System 2" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="jEFjyKV6ByHI5vPyLk2n-1">
+          <mxGeometry y="310" width="1040" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-9" value="Check MST có tồn tại trên hệ thống ko" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" parent="jEFjyKV6ByHI5vPyLk2n-3">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-4" value="System 3" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="jEFjyKV6ByHI5vPyLk2n-1">
+          <mxGeometry y="510" width="1040" height="200" as="geometry">
+            <mxRectangle y="260" width="880" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEFjyKV6ByHI5vPyLk2n-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jEFjyKV6ByHI5vPyLk2n-1" source="jEFjyKV6ByHI5vPyLk2n-7" target="jEFjyKV6ByHI5vPyLk2n-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
