@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:23:03.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.84 Safari/537.36" etag="ore_A8xVupQJFiwASzXM" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:38:45.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.84 Safari/537.36" etag="gm7g0U_aDgg36BUVK7Bx" version="20.4.0" type="github">
   <diagram id="DwSH8OhJzTCIUdJTzhLR" name="Page-1">
-    <mxGraphModel dx="902" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XRScqQg2IZuc82BI049O-2" value="Segmentation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XRScqQg2IZuc82BI049O-4" value="Routing" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XRScqQg2IZuc82BI049O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRScqQg2IZuc82BI049O-6" target="XRScqQg2IZuc82BI049O-10">
           <mxGeometry relative="1" as="geometry" />
@@ -25,8 +25,8 @@
         <mxCell id="XRScqQg2IZuc82BI049O-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRScqQg2IZuc82BI049O-6" target="XRScqQg2IZuc82BI049O-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XRScqQg2IZuc82BI049O-6" value="Sources:&lt;br&gt;- Hubspot&lt;br&gt;- Teko&lt;br&gt;- Viettel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="70" width="120" height="90" as="geometry" />
+        <mxCell id="XRScqQg2IZuc82BI049O-6" value="&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;Hubspot&lt;br&gt;&lt;/span&gt;Teko&lt;br&gt;Viettel,&lt;br&gt;etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XRScqQg2IZuc82BI049O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XRScqQg2IZuc82BI049O-9" target="XRScqQg2IZuc82BI049O-1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,8 +37,17 @@
         <mxCell id="XRScqQg2IZuc82BI049O-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRScqQg2IZuc82BI049O-10" target="XRScqQg2IZuc82BI049O-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XRScqQg2IZuc82BI049O-10" value="Contacts Info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XRScqQg2IZuc82BI049O-10" value="Lead Profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XRScqQg2IZuc82BI049O-18" value="&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Contacts&#39; Info:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Họ tên&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- CMT/CCCD&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Giới tính&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Phone&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Email&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Địa chỉ: Tỉnh/Thành phố, Quận/Huyện, Xã/Phường/Thị trấn, địa chỉ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Source&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Nguồn lead: Sales, Noti, Email Marketing, Hubspot, Teko, Viettel, etc.&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XRScqQg2IZuc82BI049O-19" value="&lt;p style=&quot;line-height: 1.4;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Behaviors:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- jgg&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XRScqQg2IZuc82BI049O-20" value="&lt;b&gt;Tagging:&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
